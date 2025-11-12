@@ -1,0 +1,4 @@
+patient_id,age,blood_pressure,glucose,cholesterol,treatment_outcome
+1,45,130,110,190,Low Risk
+2,60,150,160,230,High Risk
+3,35,120,95,175,Medium Risk

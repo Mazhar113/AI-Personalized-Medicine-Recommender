@@ -1,0 +1,4 @@
+patient_id,heart_rate,steps_per_day,sleep_hours
+1,80,7200,7
+2,95,5400,6
+3,70,8500,8
